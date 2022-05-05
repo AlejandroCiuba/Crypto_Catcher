@@ -18,4 +18,4 @@ A fun little group project we worked on using the Twitter API :)
 - `README.md`: This :)
 
 ### Subdirectories:
-- `planning`: All documents related to our planning phase(s) for the bot are here, including a rough-draft (and hopefully finalized) SRS.
+- `planning/`: All documents related to our planning phase(s) for the bot are here, including a rough-draft (and hopefully finalized) SRS.
