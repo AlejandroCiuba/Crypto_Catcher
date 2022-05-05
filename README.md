@@ -10,7 +10,7 @@ A fun little group project we worked on using the Twitter API :)
 - [Lindsey Rojtas](https://github.com/rojtas) 
 - [Ocilical](https://github.com/ocilical)
 - [Dan Li](https://github.com/til61)
-- [Alex LASTNAME](https://github.com/awitkowski0)
+- [Alex Witkowoski](https://github.com/awitkowski0)
 ***
 ## Contents:
 ### Files:
