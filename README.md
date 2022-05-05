@@ -11,6 +11,7 @@ A fun little group project we worked on using the Twitter API :)
 - [Ocilical](https://github.com/ocilical)
 - [Dan Li](https://github.com/til61)
 - [Alex Witkowoski](https://github.com/awitkowski0)
+- [Camryn Simons](https://github.com/camrynsimons)
 ***
 ## Contents:
 ### Files:
